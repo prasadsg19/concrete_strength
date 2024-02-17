@@ -1,0 +1,1 @@
+pickle_path=r'artifacts\concrete_randomforest.pkl'
