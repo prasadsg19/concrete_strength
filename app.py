@@ -31,7 +31,7 @@ def concrete_strength():
     
 
 if __name__ == '__main__' :
-    app.run(port=1003,debug=False)
+    app.run(host="0.0.0.0",port=1003,debug=False)
     
 
 
